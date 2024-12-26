@@ -1,6 +1,6 @@
 # flutter_expense_management
 
-## If problem occur please visit https://drive.google.com/drive/folders/1Yz2EfjDhFNzsx-q7CusjBGPX3ZkvnRRU for the entire project
+## If problems occur please download the project from https://drive.google.com/drive/folders/1Yz2EfjDhFNzsx-q7CusjBGPX3ZkvnRRU
 
 A new Flutter project.
 
